@@ -58,6 +58,8 @@ These improvements included:
 
 For each simulated attack I practiced incident responses following NIST SP 800-61 r2.
 
+![NIST 800.61](https://i.imgur.com/6PTG7c0l.png)
+
 Each organization will have policies related to an incident response that should be followed. This event is just a walkthrough for possible actions to take in the detection of malware on a workstation.  
 
 #### Preparation
