@@ -44,8 +44,6 @@ These improvements included:
 
 - <b>Built-in Firewalls</b>: In my virtual machines I configured the built-in firewalls so that it would deny access from unauthorized users. 
 
-- <b>Private Endpoints</b>: For other Azure resources, I replaced the public endpoints with Private Endpoints. This ensured that access to sensitive resources, such as storage accounts and databases, was limited to only the virtual network.
-
 ## Attack Maps After Hardening / Security Controls
 
 <br />
@@ -68,7 +66,6 @@ Each organization will have policies related to an incident response that should
 
 #### Detection & Analysis
 
-- Malware has been detected on a workstation with the potential to compromise the confidentiality, integrity, or availability of the system and data.
 - Assigned alert to an owner, set the severity to "High", and the status to "Active"
 - Identified the primary user account of the system and all systems affected.
 - A full scan of the system was conducted using up-to-date antivirus software to identify the malware.
